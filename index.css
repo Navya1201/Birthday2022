@@ -1,0 +1,10 @@
+body {
+  background: url("pagebg.gif") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+* {
+  font-family: "Ubuntu", cursive;
+}
